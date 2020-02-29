@@ -28,7 +28,8 @@ p{
   border-radius: 5px;
 }
 .button:hover{
-  box-sizing: 60px;
+  
+  font-size: 20px;
 }
 .top{
   background-image: url("images/header-bg.png");
