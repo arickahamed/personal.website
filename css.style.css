@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    font-family: 'Rubik',sans-serif ;
+}
+.name{
+  color: rgb(211, 55, 55);
+  font-size: 40px;
+  font-family: 'Archivo Black',sans-serif ;
+}
+.half{
+  width: 35%;
+  margin-left: 5%;
+  margin-top: 28%;
+  padding-left: 7%;
+  float: left;
+}
+.half img{
+  width: 100%;
+}
+p{
+  color: dimgray;
+}
+.button{
+  text-decoration: none;
+  background-color: rgb(211, 55, 55);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.top{
+  background-image: url("images/header-bg.png");
+  
+}
+.middle{
+  background-image: url("images/biography-bg.png");
+  
+}
+.experience{
+  background-image: url("images/latest-work-bg.png");
+  background-position-x: 60%;
+  
+  height: 700px;
+}
+.leatest-work img{
+  width: 21%;
+  margin-left: 2%;
+  margin-top: 10%;
+  padding-left: 10%;
+  float: left;
+}
+section{
+  height: 1070px;
+}
+#last-heading{
+  text-align: center;
+  margin-top: 10%;
+  
+}
+.end{
+  background-image: url("images/footer-bg.png");
+  background-position-x: 50%;
+  
+  height: 800px;
+}
