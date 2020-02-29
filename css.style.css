@@ -18,7 +18,7 @@ body{
   width: 100%;
 }
 p{
-  color: dimgray;
+  color: #696969;
 }
 .button{
   text-decoration: none;
@@ -26,6 +26,9 @@ p{
   color: white;
   padding: 10px 20px;
   border-radius: 5px;
+}
+.button:hover{
+  box-sizing: 60px;
 }
 .top{
   background-image: url("images/header-bg.png");
